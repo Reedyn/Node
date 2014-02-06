@@ -1,4 +1,0 @@
-Node
-====
-
-Learning node
