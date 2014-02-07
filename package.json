@@ -1,0 +1,9 @@
+{
+  "name": "Node",
+  "description": "Learning node",
+  "version": "0.1.0",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
+}
